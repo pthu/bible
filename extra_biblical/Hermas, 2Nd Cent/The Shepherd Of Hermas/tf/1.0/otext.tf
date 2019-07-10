@@ -1,0 +1,33 @@
+@config
+@_book=The Shepherd of Hermas
+@author=Hermas, 2nd cent
+@availableStructure=book,chapter,section
+@compiler=Ernst Boogert
+@edition=Hermas, 2nd cent, Kirsopp Lake, The Apostolic Fathers, William Heinemann, G.P. Putnam's Sons, London, New York, 1917, 2, Internet Archive.
+@editor=Kirsopp Lake
+@fmt:text-orig-beta-plain={beta_plain} 
+@fmt:text-orig-full={orig} 
+@fmt:text-orig-lemma={lemma} 
+@fmt:text-orig-main={main} 
+@fmt:text-orig-norm={norm} 
+@fmt:text-orig-plain={plain} 
+@institution=Protestant Theological University (PThU) Amsterdam/Groningen, The Netherlands
+@lang=grc
+@license=not provided by source
+@name=Patristic corpus from Perseus
+@purpose=Making Perseus TEI formatted text available in TF
+@sectionFeatures=_book,book,chapter
+@sectionTypes=_book,book,chapter
+@source1=Perseus Digital Library
+@source2=Open Greek and Latin Project
+@status=initial unchecked conversion
+@structureFeatures=_book,book,chapter,section
+@structureTypes=_book,book,chapter,section
+@url1=https://github.com/PerseusDL/canonical-greekLit
+@url2=https://github.com/OpenGreekAndLatin/First1KGreek
+@urn=urn:cts:greekLit:tlg1419.tlg001.1st1K-grc1
+@valueType=int
+@version=1.0
+@writtenBy=Text-Fabric
+@dateWritten=2019-07-10T11:32:54Z
+

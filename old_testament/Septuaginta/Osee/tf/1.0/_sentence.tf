@@ -1,0 +1,190 @@
+@node
+@_book=Osee
+@author=Septuaginta
+@availableStructure=chapter,verse
+@compiler=Ernst Boogert
+@description=numbering of sentences with "." as its delimiter
+@edition=The Old Testament in Greek, Henry Barclay Swete D.D, Septuaginta, Cambridge University Press, Cambridge, 1905, 3, The Internet Archive.
+@editor=Henry Barclay Swete D.D
+@institution=Protestant Theological University (PThU) Amsterdam/Groningen, The Netherlands
+@lang=grc
+@license=Available under a Creative Commons Attribution-ShareAlike 4.0 International License
+@name=Patristic corpus from Perseus
+@purpose=Making Perseus TEI formatted text available in TF
+@source1=Perseus Digital Library
+@source2=Open Greek and Latin Project
+@status=initial unchecked conversion
+@url1=https://github.com/PerseusDL/canonical-greekLit
+@url2=https://github.com/OpenGreekAndLatin/First1KGreek
+@urn=urn:cts:greekLit:tlg0527.tlg036.1st1K-grc1
+@valueType=int
+@version=1.0
+@writtenBy=Text-Fabric
+@dateWritten=2019-07-10T11:31:59Z
+
+1
+28	2
+33	3
+55	4
+69	5
+112	6
+118	7
+141	8
+170	9
+181	10
+200	11
+235	12
+263	13
+269	14
+274	15
+290	16
+345	17
+387	18
+444	19
+472	20
+619	21
+667	22
+680	23
+703	24
+743	25
+775	26
+808	27
+839	28
+871	29
+905	30
+928	31
+960	32
+1004	33
+1046	34
+1093	35
+1119	36
+1141	37
+1159	38
+1185	39
+1206	40
+1253	41
+1276	42
+1290	43
+1305	44
+1319	45
+1357	46
+1371	47
+1377	48
+1399	49
+1423	50
+1459	51
+1482	52
+1504	53
+1518	54
+1524	55
+1530	56
+1565	57
+1590	58
+1605	59
+1667	60
+1687	61
+1706	62
+1716	63
+1761	64
+1779	65
+1809	66
+1825	67
+1855	68
+1893	69
+1915	70
+1943	71
+1966	72
+1981	73
+2005	74
+2027	75
+2047	76
+2060	77
+2084	78
+2105	79
+2111	80
+2140	81
+2175	82
+2198	83
+2208	84
+2225	85
+2236	86
+2246	87
+2259	88
+2289	89
+2315	90
+2335	91
+2346	92
+2361	93
+2395	94
+2431	95
+2462	96
+2479	97
+2491	98
+2523	99
+2555	100
+2564	101
+2573	102
+2584	103
+2617	104
+2636	105
+2650	106
+2673	107
+2687	108
+2699	109
+2718	110
+2745	111
+2766	112
+2802	113
+2838	114
+2859	115
+2880	116
+2915	117
+2940	118
+2945	119
+2959	120
+2975	121
+2991	122
+3016	123
+3048	124
+3070	125
+3087	126
+3129	127
+3142	128
+3162	129
+3174	130
+3184	131
+3208	132
+3229	133
+3264	134
+3274	135
+3292	136
+3300	137
+3308	138
+3319	139
+3338	140
+3351	141
+3371	142
+3386	143
+3400	144
+3418	145
+3435	146
+3458	147
+3461	148
+3482	149
+3531	150
+3557	151
+3589	152
+3617	153
+3630	154
+3642	155
+3655	156
+3715	157
+3739	158
+3752	159
+3777	160
+3801	161
+3815	162
+3865	163
+3888	164
+3915	165
+3917	1

@@ -1,0 +1,210 @@
+@node
+@_book=Esther
+@author=Septuaginta
+@availableStructure=chapter,verse
+@compiler=Ernst Boogert
+@description=numbering of sentences with "." as its delimiter
+@edition=The Old Testament in Greek, Henry Barclay Swete D.D, Septuaginta, Cambridge University Press, Cambridge, 1896, 2, The Internet Archive.
+@editor=Henry Barclay Swete D.D
+@institution=Protestant Theological University (PThU) Amsterdam/Groningen, The Netherlands
+@lang=grc
+@license=Available under a Creative Commons Attribution-ShareAlike 4.0 International License
+@name=Patristic corpus from Perseus
+@purpose=Making Perseus TEI formatted text available in TF
+@source1=Perseus Digital Library
+@source2=Open Greek and Latin Project
+@status=initial unchecked conversion
+@url1=https://github.com/PerseusDL/canonical-greekLit
+@url2=https://github.com/OpenGreekAndLatin/First1KGreek
+@urn=urn:cts:greekLit:tlg0527.tlg019.1st1K-grc1
+@valueType=int
+@version=1.0
+@writtenBy=Text-Fabric
+@dateWritten=2019-07-10T11:32:00Z
+
+1
+57	2
+74	3
+101	4
+134	5
+161	6
+189	7
+241	8
+275	9
+299	10
+320	11
+358	12
+469	13
+494	14
+509	15
+568	16
+579	17
+601	18
+646	19
+674	20
+687	21
+717	22
+753	23
+782	24
+819	25
+841	26
+909	27
+918	28
+950	29
+983	30
+1009	31
+1065	32
+1081	33
+1101	34
+1139	35
+1170	36
+1207	37
+1226	38
+1245	39
+1273	40
+1280	41
+1312	42
+1324	43
+1330	44
+1346	45
+1373	46
+1392	47
+1412	48
+1457	49
+1477	50
+1516	51
+1555	52
+1572	53
+1590	54
+1606	55
+1652	56
+1678	57
+1705	58
+1751	59
+1818	60
+1924	61
+1943	62
+1960	63
+1990	64
+2012	65
+2033	66
+2064	67
+2084	68
+2108	69
+2173	70
+2183	71
+2241	72
+2249	73
+2296	74
+2358	75
+2452	76
+2487	77
+2554	78
+2567	79
+2643	80
+2649	81
+2686	82
+2705	83
+2755	84
+2784	85
+2846	86
+2862	87
+2897	88
+2933	89
+2956	90
+3026	91
+3061	92
+3092	93
+3145	94
+3162	95
+3181	96
+3191	97
+3210	98
+3232	99
+3256	100
+3276	101
+3293	102
+3326	103
+3348	104
+3384	105
+3405	106
+3418	107
+3456	108
+3466	109
+3490	110
+3518	111
+3539	112
+3577	113
+3595	114
+3691	115
+3717	116
+3754	117
+3770	118
+3813	119
+3828	120
+3837	121
+3871	122
+3893	123
+3927	124
+3948	125
+3957	126
+3979	127
+4014	128
+4042	129
+4049	130
+4058	131
+4065	132
+4092	133
+4113	134
+4136	135
+4160	136
+4179	137
+4257	138
+4305	139
+4362	140
+4391	141
+4447	142
+4480	143
+4535	144
+4636	145
+4676	146
+4766	147
+4800	148
+4833	149
+4856	150
+4875	151
+4898	152
+4939	153
+4958	154
+4972	155
+4993	156
+5004	157
+5063	158
+5110	159
+5126	160
+5143	161
+5173	162
+5189	163
+5213	164
+5239	165
+5260	166
+5343	167
+5394	168
+5448	169
+5464	170
+5485	171
+5505	172
+5526	173
+5537	174
+5549	175
+5572	176
+5599	177
+5607	178
+5630	179
+5638	180
+5682	181
+5714	182
+5762	183
+5798	184
+5832	185
+5834	1
